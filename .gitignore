@@ -1,0 +1,12 @@
+##파일무시
+test.tct
+.DS_Store
+
+##확장자 무시
+.txt
+.pdf
+
+##폴더 무시
+py_file/
+pdf_file/
+
