@@ -7,3 +7,4 @@ SW중심대학 공동 AI 경진대회
 ### 모델 개발
 - yk_dacon_ai_RF.ipynb : RandomForest
 - Linear Model_pytorch.ipynb : LinearModel
+- yk_dacon_ai_RF_GS.ipynd : RandomForest + Grid Search
