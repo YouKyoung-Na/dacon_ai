@@ -15,6 +15,10 @@ SW중심대학 공동 AI 경진대회
 
 <br></br><br></br>
 ## 본선 - OCR
+
+### 참고 자료 및 링크
+https://github.com/parksunwoo/ocr_kor
+
 ### 데이터 처리
 
 ### 모델 개발
