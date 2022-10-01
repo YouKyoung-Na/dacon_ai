@@ -15,6 +15,7 @@ SW중심대학 공동 AI 경진대회
 
 <br></br><br></br>
 ## 본선 - OCR
+본선 깃허브 주소: https://github.com/YouKyoung-Na/dacon_final
 
 ### 참고 자료 및 링크
 https://github.com/parksunwoo/ocr_kor
